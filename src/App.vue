@@ -8,6 +8,7 @@
   <HelloVue></HelloVue>
 
   <syt-button></syt-button>
+  <el-button>el-button</el-button>
 </template>
 
 <style scoped lang="scss"></style>
